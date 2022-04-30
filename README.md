@@ -29,10 +29,10 @@
 - Used analytical methods such as anomaly detection to showcase interesting player/team stats to facilitate decision making in games
 
 
+<img src="/images/sodexo.jpeg" width="360" height="180"/>
 
 **Sodexo India** | Apr 2018 – May 2021
 
-<img src="/images/sodexo.jpeg" width="360" height="180"/>
 
 *Assistant Manager – Business Operations*
 
@@ -46,13 +46,43 @@
 - **Ensured compliance of reports** sent to partner banks by framing quality checks in accordance to **master guidelines specified by RBI**. Served as SPOC for all incoming requests, reporting and product changes, from partnering banks
 
 
+<img src="/images/exotel.jpeg" width="360" height="180"/>
 
 **Exotel Techcom** | Jun 2015 – Oct 2017
 
-<img src="/images/exotel.jpeg" width="360" height="180"/>
 
 *Operations Analyst – International Supply Chain*
 
 - **Presented revenue projections and provided growth analysis** every month to executive management for all internal clients and suggested several insights to lower supply chain costs
 - **Expanded the Exotel client relationship** to SEA countries and helped build redundancy to the Exotel System by onboarded new vendors including CM Telecom, Infobip, etc
 - **Monitored the pilot runs** for enterprise customers such as GO-JEK, Seekmi, Lazada, Tokopedia, Redmart, Zenrooms etc. and co-ordinated across functions to ensure smooth pilot run
+
+# Projects
+
+
+**Phishing Emails Identification** | [View Project](https://github.com/jbanerj/crossroads) 
+- **Identified phishing emails** for MISO energy as part of a Kaggle competition by formulating the **XGBoost random forest classifier**. Achieved a model AUC-ROC score of 98.89% and was declared the **competition winner**
+
+
+
+
+
+**Sales and Profit Forecasting** | [View Project](https://github.com/jbanerj/forecasting) 
+- Used R time series analysis to build **time series models** (decomposition & ARIMA) to fit company sales data and **perform profit/loss analysis**. Identified the overall trend and seasonal pattern and performed forecasting to **predict future sales/profit**
+
+
+
+
+**Credit Risk Analysis**
+
+- Performed **credit risk analysis** and predicted customers who are likely to default based upon parameters like annual income, grade of loan, DTI (debt to income) etc using **ML techniques** like random forest, logistic regression, etc. Model accuracy of 99.17%
+
+
+
+
+
+
+# LinkedIn
+
+[Visit Here](https://www.linkedin.com/in/jyotismanbanerjee/)
+
