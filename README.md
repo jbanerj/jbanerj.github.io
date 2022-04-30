@@ -1,4 +1,4 @@
-<img src="/images/JyotismanBanerjee.png" width="240" height="360"/>
+<img src="/images/JyotismanBanerjee.JPG" width="240" height="360"/>
 
 # Education 
 
