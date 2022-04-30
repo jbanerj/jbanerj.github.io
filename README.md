@@ -1,4 +1,5 @@
-![](/images/JyotismanBanerjee.png)
+![<img src="/images/JyotismanBanerjee.png" height="360" width="240"/>](/images/JyotismanBanerjee.png)
+
 
 # Education 
 
